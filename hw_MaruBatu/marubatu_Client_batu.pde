@@ -1,7 +1,6 @@
 //hw_ServerClientApp.pde
 //宿題① サーバ・クライアントで通信を行う何らかのアプリを作成するプログラム。○×ゲームを作成。
 //2025/11/26
-//
 
 import processing.net.*;
 Server myServer = new Server( this, 9876 );
